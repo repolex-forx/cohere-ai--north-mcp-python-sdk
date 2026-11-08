@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/north-mcp-python-sdk/commit/069489699204bd4815ab85bb5fd798b807a6a980",
       "git:hexsha": "069489699204bd4815ab85bb5fd798b807a6a980",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/cohere-ai/north-mcp-python-sdk/commit/0ab428c6fd5b62597ff179d07906c404372fecf1",
